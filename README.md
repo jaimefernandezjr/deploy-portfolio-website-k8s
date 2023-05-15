@@ -1,4 +1,5 @@
-# deploy-tourist-website-k8s
+# deploy-portfolio-website-k8s
+a deployment of my porfolio website using Kubernetes minikube
 
 ## What is happening in this project?
 1. Deploy in Kubernetes cluster using a deployment manifest file that obtains the portfolio-website's image from dockerhub from https://github.com/jaimefernandezjr/cicd-dockerize-app
