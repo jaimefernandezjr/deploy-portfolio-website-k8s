@@ -1,8 +1,7 @@
 # deploy-tourist-website-k8s
 
 ## What is happening in this project?
-1. Creates a deployment manifest file that obtains the portfolio-website's image from dockerhub from https://github.com/jaimefernandezjr/cicd-dockerize-app
-2.  
+1. Deploy in Kubernetes cluster using a deployment manifest file that obtains the portfolio-website's image from dockerhub from https://github.com/jaimefernandezjr/cicd-dockerize-app
 
 ## How to run this project
 1. Install Minikube. Make sure Docker Desktop is running.
