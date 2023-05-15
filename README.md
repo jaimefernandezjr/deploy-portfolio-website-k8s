@@ -2,7 +2,7 @@
 a deployment of my porfolio website using Kubernetes minikube
 
 ## What is happening in this project?
-1. Deploy in Kubernetes cluster using a deployment manifest file that obtains the portfolio-website's image from dockerhub from https://github.com/jaimefernandezjr/cicd-dockerize-app
+1. Deploy in Kubernetes cluster using a deployment manifest file that obtains the portfolio-website's image from dockerhub from https://github.com/jaimefernandezjr/portfolio-website-depl-cicd 
 
 ## How to run this project
 1. Install Minikube. Make sure Docker Desktop is running.
